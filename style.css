@@ -80,3 +80,10 @@ button:hover{
     transition-duration: 0.2s;
     
 }
+
+
+@media (max-width:375px){
+    main{
+        width:80%;
+    }
+}
